@@ -1,0 +1,8 @@
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\bin\Debug\Agregador_Podcast.exe.config
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\bin\Debug\Agregador_Podcast.exe
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\bin\Debug\Agregador_Podcast.pdb
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\obj\Debug\Agregador_Podcast.csproj.AssemblyReference.cache
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\obj\Debug\Agregador_Podcast.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\obj\Debug\Agregador_Podcast.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\obj\Debug\Agregador_Podcast.exe
+C:\Users\guilh\Downloads\drive-download-20230320T030830Z-002\C#\Agregador_Podcast\Agregador_Podcast\obj\Debug\Agregador_Podcast.pdb
